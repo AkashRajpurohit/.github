@@ -1,5 +1,6 @@
 name: '✨ Feature Request'
 description: Create a feature or enhancement request.
+labels: enhancement
 body:
   - type: textarea
     attributes:
